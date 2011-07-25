@@ -1,3 +1,8 @@
+# NOTE:
+
+I just forked this repos to change the Gemfile requirements so I could use it with Rails 3.1.0.rc4
+If you're not using 3.1.0.rc4, see [seancribbs/ripple](https://github.com/seancribbs/ripple)
+
 # ripple [![Build Status](http://secure.travis-ci.org/seancribbs/ripple.png)](https://travis-ci.org/seancribbs/ripple)
 
 ripple is a rich Ruby toolkit for Riak, Basho's distributed
