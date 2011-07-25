@@ -15,7 +15,7 @@ platforms :jruby do
 end
 
 group :integration do
-  gem 'activesupport', '~>3.0'
+  gem 'activesupport', '>=3.0'
 end
 
 platforms :mri_18, :jruby do
